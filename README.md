@@ -14,7 +14,7 @@ _Data files can be found at the top of the notebook_
 
 [Mortality Data Analysis](mortality_pd.ipynb)
 
-### Visualization from the Analysis
+#### Visualizations from the Analysis
 
 | <p align="center"><img src="line_chart_mor_pd.png" width="300"/></p> | <p align="center"><img src="pie_chart_mor_pd.png" width="300"/></p> |
 |-----------------------------------------------|-----------------------------------------------|
@@ -38,6 +38,8 @@ Utilizing three up to date & accurate expansive databases, I conducted analyses 
 _The datasets for this study can be found on Kaggle, links are provided in the following readme_
 
 [Airbnb Data Analyses](airbnb_kaggle.ipynb)
+
+#### Visualizations from the Analysis
 
 | <p align="center"><img src="airbnb_NYvis.png" width="300"/></p> | <p align="center"><img src="airbnb_tukey_safety.png" width="300"/></p> |
 |-----------------------------------------------|-----------------------------------------------|
